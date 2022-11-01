@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-- Using Java.
-- Learning Java, C and Go ~
+- Learning Rust|Java Concurrency
