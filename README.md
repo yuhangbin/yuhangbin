@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-- Learning Rust | Java Concurrency
+- Working at PICO.
+- Learning mit 6.824.
