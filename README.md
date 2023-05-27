@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-- Working at PICO.
-- Learning mit 6.824.
+- Love music
+- Love Coding
